@@ -1,6 +1,6 @@
-# Default
-archive
-bin
-boot
-lib
-repository
+bin/
+boot/
+conf/
+lib/
+m2/*
+!m2/README.md
