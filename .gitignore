@@ -1,7 +1,9 @@
 .DS_Store
+archive/
 bin/
 boot/
-conf/
+conf/*
+!conf/settings.xml
 lib/
 m2/*
 !m2/README.md
